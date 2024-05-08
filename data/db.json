@@ -1,0 +1,28 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title":"My first post",
+            "datetime":"July 1, 2021 11:17:36 AM",
+            "body":"first post: texttexttexttexttexttexttexttexttexttexttexttexttexttexttext"
+        },
+        {
+            "id": 2,
+            "title":"My second post",
+            "datetime":"July 1, 2021 11:18:36 AM",
+            "body":"second post: texttexttexttexttexttexttexttexttexttexttexttexttexttexttext"
+        },
+        {
+            "id": 3,
+            "title":"My third post",
+            "datetime":"July 1, 2021 11:19:36 AM",
+            "body":"third post: texttexttexttexttexttexttexttexttexttexttexttexttexttexttext"
+        },
+        {
+            "id": 4,
+            "title":"My fourth post",
+            "datetime":"July 11, 2021 11:20:36 AM",
+            "body":"fourth post: texttexttexttexttexttexttexttexttexttexttexttexttexttexttext"
+        }
+    ]
+}

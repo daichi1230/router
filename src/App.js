@@ -11,32 +11,7 @@ import { useState, useEffect } from 'react';
 import { format } from 'date-fns';
 
 function App() {
-  const [posts, setPosts] = useState([
-    {
-      id: 1,
-      title:"My first post",
-      datetime:"July 1, 2021 11:17:36 AM",
-      body:texttexttexttexttexttexttexttexttexttexttexttexttexttexttext,
-    },
-    {
-      id: 2,
-      title:"My second post",
-      datetime:"July 1, 2021 11:17:36 AM",
-      body:texttexttexttexttexttexttexttexttexttexttexttexttexttexttext,
-    },
-    {
-      id: 3,
-      title:"My third post",
-      datetime:"July 1, 2021 11:17:36 AM",
-      body:texttexttexttexttexttexttexttexttexttexttexttexttexttexttext,
-    },
-    {
-      id: 4,
-      title:"My fourth post",
-      datetime:"July 1, 2021 11:17:36 AM",
-      body:texttexttexttexttexttexttexttexttexttexttexttexttexttexttext,
-    }
-  ])
+  const [posts, setPosts] = useState([])
   const [search, setSearch] = useState('')
   const [searchResults, setSearchResults] = useState([])
   const [postTitle, setPostTitle] = useState('')
