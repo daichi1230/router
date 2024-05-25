@@ -1,7 +1,7 @@
 const NewPost = ({
     handleSubmit, postTitle, setPostTitle, postBody, setPostBody
 }) => {
-  return (
+    return (
     <main className="NewPost">
         <h2>NewPost</h2>
         <form className="newPostForm" onSubmit={handleSubmit}>
@@ -23,7 +23,7 @@ const NewPost = ({
             <button type="submit">Submit</button>
         </form>
     </main>
-  )
+    )
 }
 
 export default NewPost
