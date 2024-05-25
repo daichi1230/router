@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom"
 
 const Nav = ({ search, setSearch}) => {
-  return (
+    return (
         <nav className="Nav">
             <form className="serchForm" onSubmit={(e) => e.preventDefault}>
                 <label htmlFor="search">Search Posts</label>
@@ -19,7 +19,7 @@ const Nav = ({ search, setSearch}) => {
                 <li><Link to="/about">About</Link></li>
             </ul>
         </nav>
-  )
+    )
 }
 
 export default Nav

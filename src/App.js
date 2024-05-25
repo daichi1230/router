@@ -45,7 +45,7 @@ function App() {
 
   return (
     <div className="App">
-      <Header title = "Easy Blog"/>
+      <Header/>
       <Nav search={search} setSearch={setSearch}/>
       <Routes>
         <Route path="/" element={<Home posts={searchResults} />} />

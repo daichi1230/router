@@ -1,7 +1,7 @@
-const Header = ({title}) => {
+const Header = ({}) => {
   return (
     <header className="Header">
-        <h1>{title}</h1>
+        <img src="/img/YouRockLogo.jpg" alt="YouRock.logo" />
     </header>
   )
 }
