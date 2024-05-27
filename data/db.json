@@ -4,25 +4,25 @@
             "id": 1,
             "title":"My first post",
             "datetime":"July 1, 2021 11:17:36 AM",
-            "body":"first post: texttexttexttexttexttexttexttexttexttexttexttexttexttexttext"
+            "body":"first post: 1970年に南部陽一郎、レオナルド・サスキンド 、ホルガー・ベック・ニールセン (Holger Bech Nielsen|en) [1]が独立に発表したハドロンに関する理論によって登場したものの、量子色力学にその座を譲った。しかし、1984年にマイケル・グリーンとジョン・シュワルツ (John Henry Schwarz) が発表した超対称性及び、カルツァ＝クライン理論を取り入れた超弦理論 (superstring theory)によって、再び表舞台に現れた。4つの基本相互作用を統一する試みとして注目されている。"
         },
         {
             "id": 2,
             "title":"My second post",
             "datetime":"July 1, 2021 11:18:36 AM",
-            "body":"second post: texttexttexttexttexttexttexttexttexttexttexttexttexttexttext"
+            "body":"second post: 最近では、超弦理論やM理論を含む広い意味で「弦理論 (string theory)」と呼ぶことも多い[2]が、ここでは超対称性を持たないボゾン弦 (bosonic string) について記述する。"
         },
         {
             "id": 3,
             "title":"My third post",
             "datetime":"July 1, 2021 11:19:36 AM",
-            "body":"third post: texttexttexttexttexttexttexttexttexttexttexttexttexttexttext"
+            "body":"third post: この種の最初の理論である双対共鳴模型は、ガブリエーレ・ヴェネツィアーノによって構築された。1968年にヴェネツィアーノが発表したこの共鳴モデルは、レッジェ軌道を説明する公式を「散乱振幅」として表現した（ヴェネツィアーノ振幅）。それにはsチャンネルとtチャンネルという二通りの記述が可能であった。しかし、その双対性の物理的な意味は不明であった。"
         },
         {
             "id": 4,
             "title":"My fourth post",
             "datetime":"July 11, 2021 11:20:36 AM",
-            "body":"fourth post: texttexttexttexttexttexttexttexttexttexttexttexttexttexttext"
+            "body":"fourth post: ヴェネツィアーノは、オイラーの ベータ関数をレッジェ軌道上の粒子について4粒子散乱振幅データを記述するために使うことができるであろうと記した。ヴェネチアーノ散乱振幅は木庭二郎およびホルガー・ベック・ニールセンによってすぐにN粒子の散乱振幅に一般化された。これは現在、Miguel Virasoro (en) およびJoel A. Shapiro (en) によって閉じた弦として認識されているものに当たる。強い相互作用の双対共鳴模型は1968年から1974年までは主要な研究テーマであった。"
         }
     ]
 }
