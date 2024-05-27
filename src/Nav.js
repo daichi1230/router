@@ -1,10 +1,13 @@
 import { Link } from "react-router-dom"
+import { useContext } from "react"
+import DataContext from "./context/DataContext"
 
-const Nav = ({ search, setSearch}) => {
+const Nav = () => {
+    const { search, setSearch } = useContext(DataContext);
     return (
         <nav className="Nav">
             <form className="searchForm" onSubmit={(e) => e.preventDefault}>
-                <label htmlFor="search">Search Posts</label>
+                <label htmlFor="search">タイトルで検索</label>
                 <input 
                     id="search"
                     type="text"

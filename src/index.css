@@ -49,7 +49,11 @@ body {
   color: #efefef;
 }
 
-
+.logo {
+  display: flex;
+  align-items: left;
+  padding: 0.25rem;
+}
 
 .Footer {
   padding: 0.75rem;
