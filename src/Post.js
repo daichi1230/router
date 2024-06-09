@@ -10,8 +10,8 @@ const Post = ({post}) => {
         <p className="postBody">{
             (post.body).length <= 25
             ? post.body
-            : '${(post.body).slice(0, 25)}...'
-        }</p>
+            : `${post.body.slice(0, 25)}...`}
+        </p>
     </article>
   )
 }
